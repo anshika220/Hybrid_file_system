@@ -23,12 +23,9 @@ This project implements a hybrid virtual file system that supports basic file an
 │   ├── token.json         # OAuth token (auto-generated)
 
 🛠️ Setup Instructions
-1. Clone the Repository
-   git clone https://github.com/yourusername/hybrid-file-system.git
-   cd hybrid-file-system
-2. Install Required Packages
+1. Install Required Packages
    pip install -r requirements.txt
-3. Setup Google Drive API
+2. Setup Google Drive API
    Go to Google Cloud Console
    Enable Google Drive API
    Create OAuth 2.0 Client ID
